@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c96aade-5950-4aca-9e0b-bf73983037a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UwJ5gZETOzimIvZMNTcI6kbfZZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c96aade-5950-4aca-9e0b-bf73983037a7" name="Default Changelist" comment="" />
+      <created>1576261542704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576261542704</updated>
+      <workItem from="1576261547858" duration="4011000" />
+      <workItem from="1576511672314" duration="3285000" />
+      <workItem from="1576518735704" duration="1350000" />
+      <workItem from="1576520117107" duration="227000" />
+      <workItem from="1576520363191" duration="627000" />
+      <workItem from="1576522625369" duration="24000" />
+      <workItem from="1576522734290" duration="53000" />
+      <workItem from="1576522953403" duration="3500000" />
+      <workItem from="1576595948018" duration="12162000" />
+      <workItem from="1576682436774" duration="14861000" />
+      <workItem from="1576768747571" duration="13917000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="579" y="215" width="800" height="675" key="#ESLint" timestamp="1576519826532">
+      <screen x="48" y="28" width="1872" height="1052" />
+    </state>
+    <state x="579" y="215" width="800" height="675" key="#ESLint/48.28.1872.1052@48.28.1872.1052" timestamp="1576519826532" />
+    <state x="717" y="301" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576612504343">
+      <screen x="48" y="28" width="1872" height="1052" />
+    </state>
+    <state x="717" y="301" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/48.28.1872.1052@48.28.1872.1052" timestamp="1576612504343" />
+  </component>
+</project>
